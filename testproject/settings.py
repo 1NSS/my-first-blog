@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'testapp',
     'textinput',
-    'analyzing',
     'results',
     'contents',
 ]

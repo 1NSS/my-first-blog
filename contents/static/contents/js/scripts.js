@@ -5,3 +5,8 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+
+function printcomments()  {
+    const comments = document.getElementById('comments').value;
+    document.getElementById("result").innerText = comments;
+  }
